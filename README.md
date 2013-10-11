@@ -8,6 +8,5 @@ It is full programmable with CC-Debugger or SmartRF04EB.
 
 Info about the BLE module can be found here http://www.jnhuamao.cn/
 
-You can buy the HM-10 Module from FastTech for about $6.87 http://www.fasttech.com/product/1292002-ti-cc2540-bluetooth-40-ble-2540-transparent-serial
 
 Info about the famous CC2540 can be found on TI website http://www.ti.com/product/cc2540&DCMP=LowPowerRFICs+Other&HQS=Other+OT+cc2540
