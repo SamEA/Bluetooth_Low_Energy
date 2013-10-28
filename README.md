@@ -7,6 +7,7 @@ The Bluetooth Board is a breakout board for HM-10 BLE module powered by a TI CC2
 It is full programmable with CC-Debugger or SmartRF04EB.
 
 Info about the BLE module can be found here: http://www.jnhuamao.cn/
+
 HM-10 Datasheet can be downloaded from here:  http://www.jnhuamao.cn/bluetooth40_en.rar
 
 
