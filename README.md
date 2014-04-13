@@ -1,8 +1,9 @@
 HM-10 Breakout Board
 ====================
 
-![Top](top.png "top")
-![Bottom](bottom.png "Bottom")
+<img src="top.png" width="400px" title="Top" />
+<br />
+<img src="bottom.png" width="400px" title="Bottom" />
 
 The HM-10 breakout board provides breadboard-pitch access to the HM-10 BLE module. 
 The HM-10's on board TI CC2540 is fully programmable with CC-Debugger or SmartRF04EB.
